@@ -1,1 +1,1 @@
-# .github
+# Willkommen beim Fachbereich Informatik
