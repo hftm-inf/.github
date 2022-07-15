@@ -1,10 +1,10 @@
 ## Willkommen im GitHub des Informatik-Fachbereichs der hftm!  👋
-Diese Organisation ins das Zuhause für allgemeine Projekte unseres Fachbereichs. Die Studierenden haben hier nur lesenden Zugriff auf interne oder öffentliche Projekte.  
+Diese Organisation ist das Zuhause für allgemeine Projekte unseres Fachbereichs. Die Studierenden haben hier nur lesenden Zugriff auf interne oder öffentliche Projekte.  
 Die klassenspezifischen Repositories für Gruppenarbeiten und Klassen-Projekte findest du hier:  
 - [Startjahr 2020](https://github.com/hftm-in2020)
 - [Startjahr 2021](https://github.com/hftm-in2021)  
 
-**Für Studierende:** Du findst unter dem Link deiner Klasse alle notwendigen Informationen zum GitHub-Einsatz im Rahmen der hftm.
+**Für Studierende:** Du findest unter dem Link deiner Klasse alle notwendigen Informationen zum GitHub-Einsatz im Rahmen der hftm.
 
 ### Für Lehrpersonen die noch keinen Zugriff auf diese Organisation haben
 Erstelle einen neuen GitHub-Benutzer oder ergänze auf deinem bestehenden GitHub-Benutzer die Schul-Email-Adresse: https://github.com/settings/emails.  
