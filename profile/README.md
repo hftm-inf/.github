@@ -3,6 +3,7 @@ Diese Organisation ist das Zuhause für allgemeine Projekte unseres Fachbereichs
 Die klassenspezifischen Repositories für Gruppenarbeiten und Klassen-Projekte findest du hier:  
 - [Startjahr 2020](https://github.com/hftm-in2020)
 - [Startjahr 2021](https://github.com/hftm-in2021)  
+- [Startjahr 2022](https://github.com/hftm-in2022)  
 
 **Für Studierende:** Du findest unter dem Link deiner Klasse alle notwendigen Informationen zum GitHub-Einsatz im Rahmen der hftm.
 
