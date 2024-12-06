@@ -1,9 +1,9 @@
 ## Willkommen im GitHub des Informatik-Fachbereichs der hftm!  👋
 Diese Organisation ist das Zuhause für allgemeine Projekte unseres Fachbereichs. Die Studierenden haben hier nur lesenden Zugriff auf interne oder öffentliche Projekte.  
 Die klassenspezifischen Repositories für Gruppenarbeiten und Klassen-Projekte findest du hier:  
-- [Startjahr 2021](https://github.com/hftm-in2021)  
 - [Startjahr 2022](https://github.com/hftm-in2022)  
 - [Startjahr 2023](https://github.com/hftm-in2023)  
+- [Startjahr 2024](https://github.com/hftm-in2024)
 
 **Für Studierende:** Du findest unter dem Link deiner Klasse alle notwendigen Informationen zum GitHub-Einsatz im Rahmen der hftm.
 
